@@ -19,3 +19,4 @@ obj = Solution()
 result = obj.countDigit(n)
 
 print("Number of digits:", result)
+# end code
