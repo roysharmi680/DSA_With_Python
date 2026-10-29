@@ -28,3 +28,4 @@ obj = Solution()
 result = obj.sumHighestAndLowestFrequency(nums)
 
 print("Sum of highest and lowest frequencies:", result)
+1
